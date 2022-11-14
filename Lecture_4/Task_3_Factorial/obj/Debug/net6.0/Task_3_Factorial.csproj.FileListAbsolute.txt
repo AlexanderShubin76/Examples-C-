@@ -1,0 +1,15 @@
+C:\Users\pastu\OneDrive\Desktop\Курс по питон гик брейнс\Курс _С#\Lecture_4\Task_3_Factorial\bin\Debug\net6.0\Task_3_Factorial.exe
+C:\Users\pastu\OneDrive\Desktop\Курс по питон гик брейнс\Курс _С#\Lecture_4\Task_3_Factorial\bin\Debug\net6.0\Task_3_Factorial.deps.json
+C:\Users\pastu\OneDrive\Desktop\Курс по питон гик брейнс\Курс _С#\Lecture_4\Task_3_Factorial\bin\Debug\net6.0\Task_3_Factorial.runtimeconfig.json
+C:\Users\pastu\OneDrive\Desktop\Курс по питон гик брейнс\Курс _С#\Lecture_4\Task_3_Factorial\bin\Debug\net6.0\Task_3_Factorial.dll
+C:\Users\pastu\OneDrive\Desktop\Курс по питон гик брейнс\Курс _С#\Lecture_4\Task_3_Factorial\bin\Debug\net6.0\Task_3_Factorial.pdb
+C:\Users\pastu\OneDrive\Desktop\Курс по питон гик брейнс\Курс _С#\Lecture_4\Task_3_Factorial\obj\Debug\net6.0\Task_3_Factorial.csproj.AssemblyReference.cache
+C:\Users\pastu\OneDrive\Desktop\Курс по питон гик брейнс\Курс _С#\Lecture_4\Task_3_Factorial\obj\Debug\net6.0\Task_3_Factorial.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pastu\OneDrive\Desktop\Курс по питон гик брейнс\Курс _С#\Lecture_4\Task_3_Factorial\obj\Debug\net6.0\Task_3_Factorial.AssemblyInfoInputs.cache
+C:\Users\pastu\OneDrive\Desktop\Курс по питон гик брейнс\Курс _С#\Lecture_4\Task_3_Factorial\obj\Debug\net6.0\Task_3_Factorial.AssemblyInfo.cs
+C:\Users\pastu\OneDrive\Desktop\Курс по питон гик брейнс\Курс _С#\Lecture_4\Task_3_Factorial\obj\Debug\net6.0\Task_3_Factorial.csproj.CoreCompileInputs.cache
+C:\Users\pastu\OneDrive\Desktop\Курс по питон гик брейнс\Курс _С#\Lecture_4\Task_3_Factorial\obj\Debug\net6.0\Task_3_Factorial.dll
+C:\Users\pastu\OneDrive\Desktop\Курс по питон гик брейнс\Курс _С#\Lecture_4\Task_3_Factorial\obj\Debug\net6.0\refint\Task_3_Factorial.dll
+C:\Users\pastu\OneDrive\Desktop\Курс по питон гик брейнс\Курс _С#\Lecture_4\Task_3_Factorial\obj\Debug\net6.0\Task_3_Factorial.pdb
+C:\Users\pastu\OneDrive\Desktop\Курс по питон гик брейнс\Курс _С#\Lecture_4\Task_3_Factorial\obj\Debug\net6.0\Task_3_Factorial.genruntimeconfig.cache
+C:\Users\pastu\OneDrive\Desktop\Курс по питон гик брейнс\Курс _С#\Lecture_4\Task_3_Factorial\obj\Debug\net6.0\ref\Task_3_Factorial.dll
