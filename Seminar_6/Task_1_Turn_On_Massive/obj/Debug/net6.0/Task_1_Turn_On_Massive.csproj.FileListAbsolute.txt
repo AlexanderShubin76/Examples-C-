@@ -1,0 +1,15 @@
+C:\Users\pastu\OneDrive\Desktop\Курс по питон гик брейнс\Курс _С#\Seminar_6\Task_1_Turn_On_Massive\bin\Debug\net6.0\Task_1_Turn_On_Massive.exe
+C:\Users\pastu\OneDrive\Desktop\Курс по питон гик брейнс\Курс _С#\Seminar_6\Task_1_Turn_On_Massive\bin\Debug\net6.0\Task_1_Turn_On_Massive.deps.json
+C:\Users\pastu\OneDrive\Desktop\Курс по питон гик брейнс\Курс _С#\Seminar_6\Task_1_Turn_On_Massive\bin\Debug\net6.0\Task_1_Turn_On_Massive.runtimeconfig.json
+C:\Users\pastu\OneDrive\Desktop\Курс по питон гик брейнс\Курс _С#\Seminar_6\Task_1_Turn_On_Massive\bin\Debug\net6.0\Task_1_Turn_On_Massive.dll
+C:\Users\pastu\OneDrive\Desktop\Курс по питон гик брейнс\Курс _С#\Seminar_6\Task_1_Turn_On_Massive\bin\Debug\net6.0\Task_1_Turn_On_Massive.pdb
+C:\Users\pastu\OneDrive\Desktop\Курс по питон гик брейнс\Курс _С#\Seminar_6\Task_1_Turn_On_Massive\obj\Debug\net6.0\Task_1_Turn_On_Massive.csproj.AssemblyReference.cache
+C:\Users\pastu\OneDrive\Desktop\Курс по питон гик брейнс\Курс _С#\Seminar_6\Task_1_Turn_On_Massive\obj\Debug\net6.0\Task_1_Turn_On_Massive.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pastu\OneDrive\Desktop\Курс по питон гик брейнс\Курс _С#\Seminar_6\Task_1_Turn_On_Massive\obj\Debug\net6.0\Task_1_Turn_On_Massive.AssemblyInfoInputs.cache
+C:\Users\pastu\OneDrive\Desktop\Курс по питон гик брейнс\Курс _С#\Seminar_6\Task_1_Turn_On_Massive\obj\Debug\net6.0\Task_1_Turn_On_Massive.AssemblyInfo.cs
+C:\Users\pastu\OneDrive\Desktop\Курс по питон гик брейнс\Курс _С#\Seminar_6\Task_1_Turn_On_Massive\obj\Debug\net6.0\Task_1_Turn_On_Massive.csproj.CoreCompileInputs.cache
+C:\Users\pastu\OneDrive\Desktop\Курс по питон гик брейнс\Курс _С#\Seminar_6\Task_1_Turn_On_Massive\obj\Debug\net6.0\Task_1_Turn_On_Massive.dll
+C:\Users\pastu\OneDrive\Desktop\Курс по питон гик брейнс\Курс _С#\Seminar_6\Task_1_Turn_On_Massive\obj\Debug\net6.0\refint\Task_1_Turn_On_Massive.dll
+C:\Users\pastu\OneDrive\Desktop\Курс по питон гик брейнс\Курс _С#\Seminar_6\Task_1_Turn_On_Massive\obj\Debug\net6.0\Task_1_Turn_On_Massive.pdb
+C:\Users\pastu\OneDrive\Desktop\Курс по питон гик брейнс\Курс _С#\Seminar_6\Task_1_Turn_On_Massive\obj\Debug\net6.0\Task_1_Turn_On_Massive.genruntimeconfig.cache
+C:\Users\pastu\OneDrive\Desktop\Курс по питон гик брейнс\Курс _С#\Seminar_6\Task_1_Turn_On_Massive\obj\Debug\net6.0\ref\Task_1_Turn_On_Massive.dll

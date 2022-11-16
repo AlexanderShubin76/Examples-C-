@@ -1,0 +1,15 @@
+C:\Users\pastu\OneDrive\Desktop\Курс по питон гик брейнс\Курс _С#\Seminar_6\Task_40_Triangle\bin\Debug\net6.0\Task_40_Triangle.exe
+C:\Users\pastu\OneDrive\Desktop\Курс по питон гик брейнс\Курс _С#\Seminar_6\Task_40_Triangle\bin\Debug\net6.0\Task_40_Triangle.deps.json
+C:\Users\pastu\OneDrive\Desktop\Курс по питон гик брейнс\Курс _С#\Seminar_6\Task_40_Triangle\bin\Debug\net6.0\Task_40_Triangle.runtimeconfig.json
+C:\Users\pastu\OneDrive\Desktop\Курс по питон гик брейнс\Курс _С#\Seminar_6\Task_40_Triangle\bin\Debug\net6.0\Task_40_Triangle.dll
+C:\Users\pastu\OneDrive\Desktop\Курс по питон гик брейнс\Курс _С#\Seminar_6\Task_40_Triangle\bin\Debug\net6.0\Task_40_Triangle.pdb
+C:\Users\pastu\OneDrive\Desktop\Курс по питон гик брейнс\Курс _С#\Seminar_6\Task_40_Triangle\obj\Debug\net6.0\Task_40_Triangle.csproj.AssemblyReference.cache
+C:\Users\pastu\OneDrive\Desktop\Курс по питон гик брейнс\Курс _С#\Seminar_6\Task_40_Triangle\obj\Debug\net6.0\Task_40_Triangle.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pastu\OneDrive\Desktop\Курс по питон гик брейнс\Курс _С#\Seminar_6\Task_40_Triangle\obj\Debug\net6.0\Task_40_Triangle.AssemblyInfoInputs.cache
+C:\Users\pastu\OneDrive\Desktop\Курс по питон гик брейнс\Курс _С#\Seminar_6\Task_40_Triangle\obj\Debug\net6.0\Task_40_Triangle.AssemblyInfo.cs
+C:\Users\pastu\OneDrive\Desktop\Курс по питон гик брейнс\Курс _С#\Seminar_6\Task_40_Triangle\obj\Debug\net6.0\Task_40_Triangle.csproj.CoreCompileInputs.cache
+C:\Users\pastu\OneDrive\Desktop\Курс по питон гик брейнс\Курс _С#\Seminar_6\Task_40_Triangle\obj\Debug\net6.0\Task_40_Triangle.dll
+C:\Users\pastu\OneDrive\Desktop\Курс по питон гик брейнс\Курс _С#\Seminar_6\Task_40_Triangle\obj\Debug\net6.0\refint\Task_40_Triangle.dll
+C:\Users\pastu\OneDrive\Desktop\Курс по питон гик брейнс\Курс _С#\Seminar_6\Task_40_Triangle\obj\Debug\net6.0\Task_40_Triangle.pdb
+C:\Users\pastu\OneDrive\Desktop\Курс по питон гик брейнс\Курс _С#\Seminar_6\Task_40_Triangle\obj\Debug\net6.0\Task_40_Triangle.genruntimeconfig.cache
+C:\Users\pastu\OneDrive\Desktop\Курс по питон гик брейнс\Курс _С#\Seminar_6\Task_40_Triangle\obj\Debug\net6.0\ref\Task_40_Triangle.dll
