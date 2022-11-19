@@ -1,0 +1,15 @@
+C:\Users\pastu\OneDrive\Desktop\Курс по питон гик брейнс\Курс _С#\Lecture_4\Task_2_White-Color_Image\bin\Debug\net6.0\Task_2_White-Color_Image.exe
+C:\Users\pastu\OneDrive\Desktop\Курс по питон гик брейнс\Курс _С#\Lecture_4\Task_2_White-Color_Image\bin\Debug\net6.0\Task_2_White-Color_Image.deps.json
+C:\Users\pastu\OneDrive\Desktop\Курс по питон гик брейнс\Курс _С#\Lecture_4\Task_2_White-Color_Image\bin\Debug\net6.0\Task_2_White-Color_Image.runtimeconfig.json
+C:\Users\pastu\OneDrive\Desktop\Курс по питон гик брейнс\Курс _С#\Lecture_4\Task_2_White-Color_Image\bin\Debug\net6.0\Task_2_White-Color_Image.dll
+C:\Users\pastu\OneDrive\Desktop\Курс по питон гик брейнс\Курс _С#\Lecture_4\Task_2_White-Color_Image\bin\Debug\net6.0\Task_2_White-Color_Image.pdb
+C:\Users\pastu\OneDrive\Desktop\Курс по питон гик брейнс\Курс _С#\Lecture_4\Task_2_White-Color_Image\obj\Debug\net6.0\Task_2_White-Color_Image.csproj.AssemblyReference.cache
+C:\Users\pastu\OneDrive\Desktop\Курс по питон гик брейнс\Курс _С#\Lecture_4\Task_2_White-Color_Image\obj\Debug\net6.0\Task_2_White-Color_Image.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pastu\OneDrive\Desktop\Курс по питон гик брейнс\Курс _С#\Lecture_4\Task_2_White-Color_Image\obj\Debug\net6.0\Task_2_White-Color_Image.AssemblyInfoInputs.cache
+C:\Users\pastu\OneDrive\Desktop\Курс по питон гик брейнс\Курс _С#\Lecture_4\Task_2_White-Color_Image\obj\Debug\net6.0\Task_2_White-Color_Image.AssemblyInfo.cs
+C:\Users\pastu\OneDrive\Desktop\Курс по питон гик брейнс\Курс _С#\Lecture_4\Task_2_White-Color_Image\obj\Debug\net6.0\Task_2_White-Color_Image.csproj.CoreCompileInputs.cache
+C:\Users\pastu\OneDrive\Desktop\Курс по питон гик брейнс\Курс _С#\Lecture_4\Task_2_White-Color_Image\obj\Debug\net6.0\Task_2_White-Color_Image.dll
+C:\Users\pastu\OneDrive\Desktop\Курс по питон гик брейнс\Курс _С#\Lecture_4\Task_2_White-Color_Image\obj\Debug\net6.0\refint\Task_2_White-Color_Image.dll
+C:\Users\pastu\OneDrive\Desktop\Курс по питон гик брейнс\Курс _С#\Lecture_4\Task_2_White-Color_Image\obj\Debug\net6.0\Task_2_White-Color_Image.pdb
+C:\Users\pastu\OneDrive\Desktop\Курс по питон гик брейнс\Курс _С#\Lecture_4\Task_2_White-Color_Image\obj\Debug\net6.0\Task_2_White-Color_Image.genruntimeconfig.cache
+C:\Users\pastu\OneDrive\Desktop\Курс по питон гик брейнс\Курс _С#\Lecture_4\Task_2_White-Color_Image\obj\Debug\net6.0\ref\Task_2_White-Color_Image.dll

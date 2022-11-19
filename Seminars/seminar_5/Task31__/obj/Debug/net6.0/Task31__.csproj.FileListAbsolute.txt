@@ -1,0 +1,15 @@
+C:\Users\pastu\OneDrive\Desktop\Курс по питон гик брейнс\Курс _С#\seminar_5\Task31__\bin\Debug\net6.0\Task31__.exe
+C:\Users\pastu\OneDrive\Desktop\Курс по питон гик брейнс\Курс _С#\seminar_5\Task31__\bin\Debug\net6.0\Task31__.deps.json
+C:\Users\pastu\OneDrive\Desktop\Курс по питон гик брейнс\Курс _С#\seminar_5\Task31__\bin\Debug\net6.0\Task31__.runtimeconfig.json
+C:\Users\pastu\OneDrive\Desktop\Курс по питон гик брейнс\Курс _С#\seminar_5\Task31__\bin\Debug\net6.0\Task31__.dll
+C:\Users\pastu\OneDrive\Desktop\Курс по питон гик брейнс\Курс _С#\seminar_5\Task31__\bin\Debug\net6.0\Task31__.pdb
+C:\Users\pastu\OneDrive\Desktop\Курс по питон гик брейнс\Курс _С#\seminar_5\Task31__\obj\Debug\net6.0\Task31__.csproj.AssemblyReference.cache
+C:\Users\pastu\OneDrive\Desktop\Курс по питон гик брейнс\Курс _С#\seminar_5\Task31__\obj\Debug\net6.0\Task31__.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pastu\OneDrive\Desktop\Курс по питон гик брейнс\Курс _С#\seminar_5\Task31__\obj\Debug\net6.0\Task31__.AssemblyInfoInputs.cache
+C:\Users\pastu\OneDrive\Desktop\Курс по питон гик брейнс\Курс _С#\seminar_5\Task31__\obj\Debug\net6.0\Task31__.AssemblyInfo.cs
+C:\Users\pastu\OneDrive\Desktop\Курс по питон гик брейнс\Курс _С#\seminar_5\Task31__\obj\Debug\net6.0\Task31__.csproj.CoreCompileInputs.cache
+C:\Users\pastu\OneDrive\Desktop\Курс по питон гик брейнс\Курс _С#\seminar_5\Task31__\obj\Debug\net6.0\Task31__.dll
+C:\Users\pastu\OneDrive\Desktop\Курс по питон гик брейнс\Курс _С#\seminar_5\Task31__\obj\Debug\net6.0\refint\Task31__.dll
+C:\Users\pastu\OneDrive\Desktop\Курс по питон гик брейнс\Курс _С#\seminar_5\Task31__\obj\Debug\net6.0\Task31__.pdb
+C:\Users\pastu\OneDrive\Desktop\Курс по питон гик брейнс\Курс _С#\seminar_5\Task31__\obj\Debug\net6.0\Task31__.genruntimeconfig.cache
+C:\Users\pastu\OneDrive\Desktop\Курс по питон гик брейнс\Курс _С#\seminar_5\Task31__\obj\Debug\net6.0\ref\Task31__.dll
