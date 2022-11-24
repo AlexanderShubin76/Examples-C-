@@ -1,0 +1,15 @@
+C:\Users\pastu\OneDrive\Desktop\Курс по питон гик брейнс\Курс _С#\Lectures\Lecture_7\Task_4_Directory\bin\Debug\net6.0\Task_4_Directory.exe
+C:\Users\pastu\OneDrive\Desktop\Курс по питон гик брейнс\Курс _С#\Lectures\Lecture_7\Task_4_Directory\bin\Debug\net6.0\Task_4_Directory.deps.json
+C:\Users\pastu\OneDrive\Desktop\Курс по питон гик брейнс\Курс _С#\Lectures\Lecture_7\Task_4_Directory\bin\Debug\net6.0\Task_4_Directory.runtimeconfig.json
+C:\Users\pastu\OneDrive\Desktop\Курс по питон гик брейнс\Курс _С#\Lectures\Lecture_7\Task_4_Directory\bin\Debug\net6.0\Task_4_Directory.dll
+C:\Users\pastu\OneDrive\Desktop\Курс по питон гик брейнс\Курс _С#\Lectures\Lecture_7\Task_4_Directory\bin\Debug\net6.0\Task_4_Directory.pdb
+C:\Users\pastu\OneDrive\Desktop\Курс по питон гик брейнс\Курс _С#\Lectures\Lecture_7\Task_4_Directory\obj\Debug\net6.0\Task_4_Directory.csproj.AssemblyReference.cache
+C:\Users\pastu\OneDrive\Desktop\Курс по питон гик брейнс\Курс _С#\Lectures\Lecture_7\Task_4_Directory\obj\Debug\net6.0\Task_4_Directory.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pastu\OneDrive\Desktop\Курс по питон гик брейнс\Курс _С#\Lectures\Lecture_7\Task_4_Directory\obj\Debug\net6.0\Task_4_Directory.AssemblyInfoInputs.cache
+C:\Users\pastu\OneDrive\Desktop\Курс по питон гик брейнс\Курс _С#\Lectures\Lecture_7\Task_4_Directory\obj\Debug\net6.0\Task_4_Directory.AssemblyInfo.cs
+C:\Users\pastu\OneDrive\Desktop\Курс по питон гик брейнс\Курс _С#\Lectures\Lecture_7\Task_4_Directory\obj\Debug\net6.0\Task_4_Directory.csproj.CoreCompileInputs.cache
+C:\Users\pastu\OneDrive\Desktop\Курс по питон гик брейнс\Курс _С#\Lectures\Lecture_7\Task_4_Directory\obj\Debug\net6.0\Task_4_Directory.dll
+C:\Users\pastu\OneDrive\Desktop\Курс по питон гик брейнс\Курс _С#\Lectures\Lecture_7\Task_4_Directory\obj\Debug\net6.0\refint\Task_4_Directory.dll
+C:\Users\pastu\OneDrive\Desktop\Курс по питон гик брейнс\Курс _С#\Lectures\Lecture_7\Task_4_Directory\obj\Debug\net6.0\Task_4_Directory.pdb
+C:\Users\pastu\OneDrive\Desktop\Курс по питон гик брейнс\Курс _С#\Lectures\Lecture_7\Task_4_Directory\obj\Debug\net6.0\Task_4_Directory.genruntimeconfig.cache
+C:\Users\pastu\OneDrive\Desktop\Курс по питон гик брейнс\Курс _С#\Lectures\Lecture_7\Task_4_Directory\obj\Debug\net6.0\ref\Task_4_Directory.dll

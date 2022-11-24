@@ -1,0 +1,15 @@
+C:\Users\pastu\OneDrive\Desktop\Курс по питон гик брейнс\Курс _С#\Lectures\Lecture_7\Task_5_Kanoe\bin\Debug\net6.0\Task_5_Kanoe.exe
+C:\Users\pastu\OneDrive\Desktop\Курс по питон гик брейнс\Курс _С#\Lectures\Lecture_7\Task_5_Kanoe\bin\Debug\net6.0\Task_5_Kanoe.deps.json
+C:\Users\pastu\OneDrive\Desktop\Курс по питон гик брейнс\Курс _С#\Lectures\Lecture_7\Task_5_Kanoe\bin\Debug\net6.0\Task_5_Kanoe.runtimeconfig.json
+C:\Users\pastu\OneDrive\Desktop\Курс по питон гик брейнс\Курс _С#\Lectures\Lecture_7\Task_5_Kanoe\bin\Debug\net6.0\Task_5_Kanoe.dll
+C:\Users\pastu\OneDrive\Desktop\Курс по питон гик брейнс\Курс _С#\Lectures\Lecture_7\Task_5_Kanoe\bin\Debug\net6.0\Task_5_Kanoe.pdb
+C:\Users\pastu\OneDrive\Desktop\Курс по питон гик брейнс\Курс _С#\Lectures\Lecture_7\Task_5_Kanoe\obj\Debug\net6.0\Task_5_Kanoe.csproj.AssemblyReference.cache
+C:\Users\pastu\OneDrive\Desktop\Курс по питон гик брейнс\Курс _С#\Lectures\Lecture_7\Task_5_Kanoe\obj\Debug\net6.0\Task_5_Kanoe.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pastu\OneDrive\Desktop\Курс по питон гик брейнс\Курс _С#\Lectures\Lecture_7\Task_5_Kanoe\obj\Debug\net6.0\Task_5_Kanoe.AssemblyInfoInputs.cache
+C:\Users\pastu\OneDrive\Desktop\Курс по питон гик брейнс\Курс _С#\Lectures\Lecture_7\Task_5_Kanoe\obj\Debug\net6.0\Task_5_Kanoe.AssemblyInfo.cs
+C:\Users\pastu\OneDrive\Desktop\Курс по питон гик брейнс\Курс _С#\Lectures\Lecture_7\Task_5_Kanoe\obj\Debug\net6.0\Task_5_Kanoe.csproj.CoreCompileInputs.cache
+C:\Users\pastu\OneDrive\Desktop\Курс по питон гик брейнс\Курс _С#\Lectures\Lecture_7\Task_5_Kanoe\obj\Debug\net6.0\Task_5_Kanoe.dll
+C:\Users\pastu\OneDrive\Desktop\Курс по питон гик брейнс\Курс _С#\Lectures\Lecture_7\Task_5_Kanoe\obj\Debug\net6.0\refint\Task_5_Kanoe.dll
+C:\Users\pastu\OneDrive\Desktop\Курс по питон гик брейнс\Курс _С#\Lectures\Lecture_7\Task_5_Kanoe\obj\Debug\net6.0\Task_5_Kanoe.pdb
+C:\Users\pastu\OneDrive\Desktop\Курс по питон гик брейнс\Курс _С#\Lectures\Lecture_7\Task_5_Kanoe\obj\Debug\net6.0\Task_5_Kanoe.genruntimeconfig.cache
+C:\Users\pastu\OneDrive\Desktop\Курс по питон гик брейнс\Курс _С#\Lectures\Lecture_7\Task_5_Kanoe\obj\Debug\net6.0\ref\Task_5_Kanoe.dll

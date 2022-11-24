@@ -1,0 +1,15 @@
+C:\Users\pastu\OneDrive\Desktop\Курс по питон гик брейнс\Курс _С#\Lectures\Lecture_6\TasK-1\bin\Debug\net6.0\TasK-1.exe
+C:\Users\pastu\OneDrive\Desktop\Курс по питон гик брейнс\Курс _С#\Lectures\Lecture_6\TasK-1\bin\Debug\net6.0\TasK-1.deps.json
+C:\Users\pastu\OneDrive\Desktop\Курс по питон гик брейнс\Курс _С#\Lectures\Lecture_6\TasK-1\bin\Debug\net6.0\TasK-1.runtimeconfig.json
+C:\Users\pastu\OneDrive\Desktop\Курс по питон гик брейнс\Курс _С#\Lectures\Lecture_6\TasK-1\bin\Debug\net6.0\TasK-1.dll
+C:\Users\pastu\OneDrive\Desktop\Курс по питон гик брейнс\Курс _С#\Lectures\Lecture_6\TasK-1\bin\Debug\net6.0\TasK-1.pdb
+C:\Users\pastu\OneDrive\Desktop\Курс по питон гик брейнс\Курс _С#\Lectures\Lecture_6\TasK-1\obj\Debug\net6.0\TasK-1.csproj.AssemblyReference.cache
+C:\Users\pastu\OneDrive\Desktop\Курс по питон гик брейнс\Курс _С#\Lectures\Lecture_6\TasK-1\obj\Debug\net6.0\TasK-1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pastu\OneDrive\Desktop\Курс по питон гик брейнс\Курс _С#\Lectures\Lecture_6\TasK-1\obj\Debug\net6.0\TasK-1.AssemblyInfoInputs.cache
+C:\Users\pastu\OneDrive\Desktop\Курс по питон гик брейнс\Курс _С#\Lectures\Lecture_6\TasK-1\obj\Debug\net6.0\TasK-1.AssemblyInfo.cs
+C:\Users\pastu\OneDrive\Desktop\Курс по питон гик брейнс\Курс _С#\Lectures\Lecture_6\TasK-1\obj\Debug\net6.0\TasK-1.csproj.CoreCompileInputs.cache
+C:\Users\pastu\OneDrive\Desktop\Курс по питон гик брейнс\Курс _С#\Lectures\Lecture_6\TasK-1\obj\Debug\net6.0\TasK-1.dll
+C:\Users\pastu\OneDrive\Desktop\Курс по питон гик брейнс\Курс _С#\Lectures\Lecture_6\TasK-1\obj\Debug\net6.0\refint\TasK-1.dll
+C:\Users\pastu\OneDrive\Desktop\Курс по питон гик брейнс\Курс _С#\Lectures\Lecture_6\TasK-1\obj\Debug\net6.0\TasK-1.pdb
+C:\Users\pastu\OneDrive\Desktop\Курс по питон гик брейнс\Курс _С#\Lectures\Lecture_6\TasK-1\obj\Debug\net6.0\TasK-1.genruntimeconfig.cache
+C:\Users\pastu\OneDrive\Desktop\Курс по питон гик брейнс\Курс _С#\Lectures\Lecture_6\TasK-1\obj\Debug\net6.0\ref\TasK-1.dll

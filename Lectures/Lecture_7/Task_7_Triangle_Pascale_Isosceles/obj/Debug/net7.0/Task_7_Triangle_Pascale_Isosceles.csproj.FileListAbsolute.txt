@@ -1,0 +1,15 @@
+C:\Users\pastu\OneDrive\Desktop\Курс по питон гик брейнс\Курс _С#\Lectures\Lecture_7\Task_7_Triangle_Pascale_Isosceles\obj\Debug\net7.0\Task_7_Triangle_Pascale_Isosceles.csproj.AssemblyReference.cache
+C:\Users\pastu\OneDrive\Desktop\Курс по питон гик брейнс\Курс _С#\Lectures\Lecture_7\Task_7_Triangle_Pascale_Isosceles\obj\Debug\net7.0\Task_7_Triangle_Pascale_Isosceles.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pastu\OneDrive\Desktop\Курс по питон гик брейнс\Курс _С#\Lectures\Lecture_7\Task_7_Triangle_Pascale_Isosceles\obj\Debug\net7.0\Task_7_Triangle_Pascale_Isosceles.AssemblyInfoInputs.cache
+C:\Users\pastu\OneDrive\Desktop\Курс по питон гик брейнс\Курс _С#\Lectures\Lecture_7\Task_7_Triangle_Pascale_Isosceles\obj\Debug\net7.0\Task_7_Triangle_Pascale_Isosceles.AssemblyInfo.cs
+C:\Users\pastu\OneDrive\Desktop\Курс по питон гик брейнс\Курс _С#\Lectures\Lecture_7\Task_7_Triangle_Pascale_Isosceles\obj\Debug\net7.0\Task_7_Triangle_Pascale_Isosceles.csproj.CoreCompileInputs.cache
+C:\Users\pastu\OneDrive\Desktop\Курс по питон гик брейнс\Курс _С#\Lectures\Lecture_7\Task_7_Triangle_Pascale_Isosceles\bin\Debug\net7.0\Task_7_Triangle_Pascale_Isosceles.exe
+C:\Users\pastu\OneDrive\Desktop\Курс по питон гик брейнс\Курс _С#\Lectures\Lecture_7\Task_7_Triangle_Pascale_Isosceles\bin\Debug\net7.0\Task_7_Triangle_Pascale_Isosceles.deps.json
+C:\Users\pastu\OneDrive\Desktop\Курс по питон гик брейнс\Курс _С#\Lectures\Lecture_7\Task_7_Triangle_Pascale_Isosceles\bin\Debug\net7.0\Task_7_Triangle_Pascale_Isosceles.runtimeconfig.json
+C:\Users\pastu\OneDrive\Desktop\Курс по питон гик брейнс\Курс _С#\Lectures\Lecture_7\Task_7_Triangle_Pascale_Isosceles\bin\Debug\net7.0\Task_7_Triangle_Pascale_Isosceles.dll
+C:\Users\pastu\OneDrive\Desktop\Курс по питон гик брейнс\Курс _С#\Lectures\Lecture_7\Task_7_Triangle_Pascale_Isosceles\bin\Debug\net7.0\Task_7_Triangle_Pascale_Isosceles.pdb
+C:\Users\pastu\OneDrive\Desktop\Курс по питон гик брейнс\Курс _С#\Lectures\Lecture_7\Task_7_Triangle_Pascale_Isosceles\obj\Debug\net7.0\Task_7_Triangle_Pascale_Isosceles.dll
+C:\Users\pastu\OneDrive\Desktop\Курс по питон гик брейнс\Курс _С#\Lectures\Lecture_7\Task_7_Triangle_Pascale_Isosceles\obj\Debug\net7.0\refint\Task_7_Triangle_Pascale_Isosceles.dll
+C:\Users\pastu\OneDrive\Desktop\Курс по питон гик брейнс\Курс _С#\Lectures\Lecture_7\Task_7_Triangle_Pascale_Isosceles\obj\Debug\net7.0\Task_7_Triangle_Pascale_Isosceles.pdb
+C:\Users\pastu\OneDrive\Desktop\Курс по питон гик брейнс\Курс _С#\Lectures\Lecture_7\Task_7_Triangle_Pascale_Isosceles\obj\Debug\net7.0\Task_7_Triangle_Pascale_Isosceles.genruntimeconfig.cache
+C:\Users\pastu\OneDrive\Desktop\Курс по питон гик брейнс\Курс _С#\Lectures\Lecture_7\Task_7_Triangle_Pascale_Isosceles\obj\Debug\net7.0\ref\Task_7_Triangle_Pascale_Isosceles.dll

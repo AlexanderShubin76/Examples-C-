@@ -1,0 +1,15 @@
+C:\Users\pastu\OneDrive\Desktop\Курс по питон гик брейнс\Курс _С#\Lectures\Lecture_7\Task_1_Factorial\bin\Debug\net6.0\Task_1_Factorial.exe
+C:\Users\pastu\OneDrive\Desktop\Курс по питон гик брейнс\Курс _С#\Lectures\Lecture_7\Task_1_Factorial\bin\Debug\net6.0\Task_1_Factorial.deps.json
+C:\Users\pastu\OneDrive\Desktop\Курс по питон гик брейнс\Курс _С#\Lectures\Lecture_7\Task_1_Factorial\bin\Debug\net6.0\Task_1_Factorial.runtimeconfig.json
+C:\Users\pastu\OneDrive\Desktop\Курс по питон гик брейнс\Курс _С#\Lectures\Lecture_7\Task_1_Factorial\bin\Debug\net6.0\Task_1_Factorial.dll
+C:\Users\pastu\OneDrive\Desktop\Курс по питон гик брейнс\Курс _С#\Lectures\Lecture_7\Task_1_Factorial\bin\Debug\net6.0\Task_1_Factorial.pdb
+C:\Users\pastu\OneDrive\Desktop\Курс по питон гик брейнс\Курс _С#\Lectures\Lecture_7\Task_1_Factorial\obj\Debug\net6.0\Task_1_Factorial.csproj.AssemblyReference.cache
+C:\Users\pastu\OneDrive\Desktop\Курс по питон гик брейнс\Курс _С#\Lectures\Lecture_7\Task_1_Factorial\obj\Debug\net6.0\Task_1_Factorial.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pastu\OneDrive\Desktop\Курс по питон гик брейнс\Курс _С#\Lectures\Lecture_7\Task_1_Factorial\obj\Debug\net6.0\Task_1_Factorial.AssemblyInfoInputs.cache
+C:\Users\pastu\OneDrive\Desktop\Курс по питон гик брейнс\Курс _С#\Lectures\Lecture_7\Task_1_Factorial\obj\Debug\net6.0\Task_1_Factorial.AssemblyInfo.cs
+C:\Users\pastu\OneDrive\Desktop\Курс по питон гик брейнс\Курс _С#\Lectures\Lecture_7\Task_1_Factorial\obj\Debug\net6.0\Task_1_Factorial.csproj.CoreCompileInputs.cache
+C:\Users\pastu\OneDrive\Desktop\Курс по питон гик брейнс\Курс _С#\Lectures\Lecture_7\Task_1_Factorial\obj\Debug\net6.0\Task_1_Factorial.dll
+C:\Users\pastu\OneDrive\Desktop\Курс по питон гик брейнс\Курс _С#\Lectures\Lecture_7\Task_1_Factorial\obj\Debug\net6.0\refint\Task_1_Factorial.dll
+C:\Users\pastu\OneDrive\Desktop\Курс по питон гик брейнс\Курс _С#\Lectures\Lecture_7\Task_1_Factorial\obj\Debug\net6.0\Task_1_Factorial.pdb
+C:\Users\pastu\OneDrive\Desktop\Курс по питон гик брейнс\Курс _С#\Lectures\Lecture_7\Task_1_Factorial\obj\Debug\net6.0\Task_1_Factorial.genruntimeconfig.cache
+C:\Users\pastu\OneDrive\Desktop\Курс по питон гик брейнс\Курс _С#\Lectures\Lecture_7\Task_1_Factorial\obj\Debug\net6.0\ref\Task_1_Factorial.dll

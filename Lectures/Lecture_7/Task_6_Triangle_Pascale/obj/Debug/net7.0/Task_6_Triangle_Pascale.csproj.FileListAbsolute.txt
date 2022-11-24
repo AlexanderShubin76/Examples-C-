@@ -1,0 +1,15 @@
+C:\Users\pastu\OneDrive\Desktop\Курс по питон гик брейнс\Курс _С#\Lectures\Lecture_7\Task_6_Triangle_Pascale\obj\Debug\net7.0\Task_6_Triangle_Pascale.csproj.AssemblyReference.cache
+C:\Users\pastu\OneDrive\Desktop\Курс по питон гик брейнс\Курс _С#\Lectures\Lecture_7\Task_6_Triangle_Pascale\obj\Debug\net7.0\Task_6_Triangle_Pascale.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pastu\OneDrive\Desktop\Курс по питон гик брейнс\Курс _С#\Lectures\Lecture_7\Task_6_Triangle_Pascale\obj\Debug\net7.0\Task_6_Triangle_Pascale.AssemblyInfoInputs.cache
+C:\Users\pastu\OneDrive\Desktop\Курс по питон гик брейнс\Курс _С#\Lectures\Lecture_7\Task_6_Triangle_Pascale\obj\Debug\net7.0\Task_6_Triangle_Pascale.AssemblyInfo.cs
+C:\Users\pastu\OneDrive\Desktop\Курс по питон гик брейнс\Курс _С#\Lectures\Lecture_7\Task_6_Triangle_Pascale\obj\Debug\net7.0\Task_6_Triangle_Pascale.csproj.CoreCompileInputs.cache
+C:\Users\pastu\OneDrive\Desktop\Курс по питон гик брейнс\Курс _С#\Lectures\Lecture_7\Task_6_Triangle_Pascale\bin\Debug\net7.0\Task_6_Triangle_Pascale.exe
+C:\Users\pastu\OneDrive\Desktop\Курс по питон гик брейнс\Курс _С#\Lectures\Lecture_7\Task_6_Triangle_Pascale\bin\Debug\net7.0\Task_6_Triangle_Pascale.deps.json
+C:\Users\pastu\OneDrive\Desktop\Курс по питон гик брейнс\Курс _С#\Lectures\Lecture_7\Task_6_Triangle_Pascale\bin\Debug\net7.0\Task_6_Triangle_Pascale.runtimeconfig.json
+C:\Users\pastu\OneDrive\Desktop\Курс по питон гик брейнс\Курс _С#\Lectures\Lecture_7\Task_6_Triangle_Pascale\bin\Debug\net7.0\Task_6_Triangle_Pascale.dll
+C:\Users\pastu\OneDrive\Desktop\Курс по питон гик брейнс\Курс _С#\Lectures\Lecture_7\Task_6_Triangle_Pascale\bin\Debug\net7.0\Task_6_Triangle_Pascale.pdb
+C:\Users\pastu\OneDrive\Desktop\Курс по питон гик брейнс\Курс _С#\Lectures\Lecture_7\Task_6_Triangle_Pascale\obj\Debug\net7.0\Task_6_Triangle_Pascale.dll
+C:\Users\pastu\OneDrive\Desktop\Курс по питон гик брейнс\Курс _С#\Lectures\Lecture_7\Task_6_Triangle_Pascale\obj\Debug\net7.0\refint\Task_6_Triangle_Pascale.dll
+C:\Users\pastu\OneDrive\Desktop\Курс по питон гик брейнс\Курс _С#\Lectures\Lecture_7\Task_6_Triangle_Pascale\obj\Debug\net7.0\Task_6_Triangle_Pascale.pdb
+C:\Users\pastu\OneDrive\Desktop\Курс по питон гик брейнс\Курс _С#\Lectures\Lecture_7\Task_6_Triangle_Pascale\obj\Debug\net7.0\Task_6_Triangle_Pascale.genruntimeconfig.cache
+C:\Users\pastu\OneDrive\Desktop\Курс по питон гик брейнс\Курс _С#\Lectures\Lecture_7\Task_6_Triangle_Pascale\obj\Debug\net7.0\ref\Task_6_Triangle_Pascale.dll
