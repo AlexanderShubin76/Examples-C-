@@ -1,0 +1,15 @@
+C:\Users\pastu\OneDrive\Desktop\Курс по питон гик брейнс\Курс _С#\Seminars\Seminar_9\Task_69\obj\Debug\net7.0\Task_69.csproj.AssemblyReference.cache
+C:\Users\pastu\OneDrive\Desktop\Курс по питон гик брейнс\Курс _С#\Seminars\Seminar_9\Task_69\obj\Debug\net7.0\Task_69.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pastu\OneDrive\Desktop\Курс по питон гик брейнс\Курс _С#\Seminars\Seminar_9\Task_69\obj\Debug\net7.0\Task_69.AssemblyInfoInputs.cache
+C:\Users\pastu\OneDrive\Desktop\Курс по питон гик брейнс\Курс _С#\Seminars\Seminar_9\Task_69\obj\Debug\net7.0\Task_69.AssemblyInfo.cs
+C:\Users\pastu\OneDrive\Desktop\Курс по питон гик брейнс\Курс _С#\Seminars\Seminar_9\Task_69\obj\Debug\net7.0\Task_69.csproj.CoreCompileInputs.cache
+C:\Users\pastu\OneDrive\Desktop\Курс по питон гик брейнс\Курс _С#\Seminars\Seminar_9\Task_69\bin\Debug\net7.0\Task_69.exe
+C:\Users\pastu\OneDrive\Desktop\Курс по питон гик брейнс\Курс _С#\Seminars\Seminar_9\Task_69\bin\Debug\net7.0\Task_69.deps.json
+C:\Users\pastu\OneDrive\Desktop\Курс по питон гик брейнс\Курс _С#\Seminars\Seminar_9\Task_69\bin\Debug\net7.0\Task_69.runtimeconfig.json
+C:\Users\pastu\OneDrive\Desktop\Курс по питон гик брейнс\Курс _С#\Seminars\Seminar_9\Task_69\bin\Debug\net7.0\Task_69.dll
+C:\Users\pastu\OneDrive\Desktop\Курс по питон гик брейнс\Курс _С#\Seminars\Seminar_9\Task_69\bin\Debug\net7.0\Task_69.pdb
+C:\Users\pastu\OneDrive\Desktop\Курс по питон гик брейнс\Курс _С#\Seminars\Seminar_9\Task_69\obj\Debug\net7.0\Task_69.dll
+C:\Users\pastu\OneDrive\Desktop\Курс по питон гик брейнс\Курс _С#\Seminars\Seminar_9\Task_69\obj\Debug\net7.0\refint\Task_69.dll
+C:\Users\pastu\OneDrive\Desktop\Курс по питон гик брейнс\Курс _С#\Seminars\Seminar_9\Task_69\obj\Debug\net7.0\Task_69.pdb
+C:\Users\pastu\OneDrive\Desktop\Курс по питон гик брейнс\Курс _С#\Seminars\Seminar_9\Task_69\obj\Debug\net7.0\Task_69.genruntimeconfig.cache
+C:\Users\pastu\OneDrive\Desktop\Курс по питон гик брейнс\Курс _С#\Seminars\Seminar_9\Task_69\obj\Debug\net7.0\ref\Task_69.dll
